@@ -18,7 +18,7 @@ Install the required libraries of python for succesful
 For getting the keylogs execute **spykey.py**
 > python3 spykey.py
 
-For detecting any file of potential keylogging file in current directory execute **spykey_cop.py**
+For detecting any file of potential keylogging threat in current directory execute **spykey_cop.py**
 >python3 spykey_cop.py
 
 All the keylogged input will be saved in a file name 
