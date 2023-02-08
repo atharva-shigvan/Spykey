@@ -13,6 +13,7 @@ Give the neccessary executable permissions to the files
 >chmod +x spykey.py spykey_cop.py
 
 Install the required libraries of python for succesful
+>pip install -r requirements.txt
 
 For getting the keylogs execute **spykey.py**
 > python3 spykey.py
